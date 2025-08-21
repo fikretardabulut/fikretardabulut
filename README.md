@@ -22,12 +22,16 @@
 
 ---
 
-## 🚀 Öne Çıkan Projelerim
-<p align="center">
+## 🚀 Öne Çıkan Projem
+
+<div align="center">
   <a href="https://github.com/fikretardabulut/Admin-Paneli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fikretardabulut&repo=Admin-Paneli&theme=radical" />
+    <img src="https://img.icons8.com/color/96/000000/dashboard.png" width="80"/>
+    <h3>Admin Paneli</h3>
+    <p>Kendi geliştirdiğim yönetim paneli projesi.</p>
   </a>
-</p>
+</div>
+
 
 ---
 
