@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- Banner Görseli -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEo8B62sx1uPg/profile-displaybackgroundimage-shrink_350_1400/B4DZh8PiSJGsAo-/0/1754431105931?e=1758758400&v=beta&t=us3Z_7DBLD8_rILRngTzaNznoTNEJSvEGjnbkvLNqg4" alt="Banner" width="100%" />
+</p>
 
-<!--
-**fikretardabulut/fikretardabulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profil Başlığı -->
+<h1 align="center">👋 Merhaba, Ben Fikret Arda Bulut</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/fikret-arda-bulut">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;PHP+%7C+MySQL+%7C+MongoDB+%7C+GraphQL;Öğrenmeyi+ve+Paylaşmayı+Seviyorum;Açık+Kaynak+Projeler+Geliştiriyorum" alt="Animasyonlu Yazı Efekti" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ​ Hakkımda
+- 🌍 Kayseri’de yaşıyorum, 19 yaşındayım.  
+- 💻 Web backend alanında kendimi geliştiriyorum.  
+- 📚 Bildiklerim: **PHP, MySQL, MongoDB, GraphQL**  
+- 🎯 Hedefim: Modern, ölçeklenebilir ve güvenli backend sistemleri geliştirmek.  
+- 📂 Projelerimi burada paylaşıyorum → [GitHub](https://github.com/fikret-arda-bulut)  
+
+---
+
+## ​​ Teknolojiler & Araçlar
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,graphql,git,github,docker,linux,postman,vscode" alt="Teknoloji İkonları" />
+</p>
+
+---
+
+## ​ GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fikret-arda-bulut&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikret-arda-bulut&layout=compact&theme=radical" height="160" alt="Top Languages" />
+</p>
+
+---
+
+## ​ Vizyonum
+> Öğrendiklerimi paylaşarak sadece kendimi değil, başkalarının da gelişmesine katkıda bulunmak istiyorum.  
+> Açık kaynak dünyasında aktif olup faydalı projeler geliştirmeyi hedefliyorum.  
+
+---
+
+## ​ Bana Ulaş
+<p align="center">
+  <a href="https://github.com/fikret-arda-bulut" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/fikret-arda-bulut" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:fikretardabulut@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+✨ **“Kod paylaşınca değerlenir, bilgi paylaşınca çoğalır.”**
