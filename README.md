@@ -22,10 +22,10 @@
 
 ---
 
-##  Öne Çıkan Projelerim
+## 🚀 Öne Çıkan Projelerim
 <p align="center">
   <a href="https://github.com/fikretardabulut/Admin-Paneli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fikretardabulut&repo=Admin-Paneli&theme=radical" alt="Admin-Paneli Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fikretardabulut&repo=Admin-Paneli&theme=radical" />
   </a>
 </p>
 
