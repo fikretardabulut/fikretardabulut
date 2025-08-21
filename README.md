@@ -25,11 +25,11 @@
 ## 🚀 Öne Çıkan Projem
 
 <div align="center">
+<p align="center">
   <a href="https://github.com/fikretardabulut/Admin-Paneli">
-    <img src="https://img.icons8.com/color/96/000000/dashboard.png" width="80"/>
-    <h3>Admin Paneli</h3>
-    <p>Kendi geliştirdiğim yönetim paneli projesi.</p>
+    <img src="admin-project-banner.png" alt="Admin Paneli Projem" />
   </a>
+</p>
 </div>
 
 
