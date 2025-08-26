@@ -6,7 +6,7 @@
 <h1 align="center">👋 Merhaba, Ben Fikret Arda Bulut</h1>
 
 <p align="center">
-  <a href="https://github.com/fikret-arda-bulut">
+  <a href="https://github.com/fikretardabulut">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;PHP+%7C+MySQL+%7C+MongoDB+%7C+GraphQL;Öğrenmeyi+ve+Paylaşmayı+Seviyorum;Açık+Kaynak+Projeler+Geliştiriyorum" />
   </a>
 </p>
