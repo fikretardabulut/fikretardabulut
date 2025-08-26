@@ -18,7 +18,7 @@
 - 💻 Web backend alanında kendimi geliştiriyorum.  
 - 📚 Bildiklerim: **PHP, MySQL, MongoDB, GraphQL**  
 - 🎯 Hedefim: Modern, ölçeklenebilir ve güvenli backend sistemleri geliştirmek.  
-- 📂 Projelerimi burada paylaşıyorum → [GitHub](https://github.com/fikret-arda-bulut)  
+- 📂 Projelerimi burada paylaşıyorum → [GitHub](https://github.com/fikretardabulut)  
 
 ---
 
