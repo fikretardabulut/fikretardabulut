@@ -1,6 +1,6 @@
 <!-- Banner Görseli -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEo8B62sx1uPg/profile-displaybackgroundimage-shrink_350_1400/B4DZh8PiSJGsAo-/0/1754431105931?e=1758758400&v=beta&t=us3Z_7DBLD8_rILRngTzaNznoTNEJSvEGjnbkvLNqg4" alt="Banner" width="100%" />
+  <img src="https://images.fikretardabulut.com.tr/public/uploads/original/1d/69/88defceb37d3bfbb7a1321cad1b4.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Merhaba, Ben Fikret Arda Bulut</h1>
