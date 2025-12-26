@@ -14,7 +14,7 @@
 ---
 
 ## ​ Hakkımda
-- 🌍 Kayseri’de yaşıyorum, 19 yaşındayım.  
+- 🌍 Kayseri’de yaşıyorum, 20 yaşındayım.  
 - 💻 Web backend alanında kendimi geliştiriyorum.  
 - 📚 Bildiklerim: **PHP, MySQL, MongoDB, GraphQL**  
 - 🎯 Hedefim: Modern, ölçeklenebilir ve güvenli backend sistemleri geliştirmek.  
