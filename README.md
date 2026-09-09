@@ -1,7 +1,7 @@
 <!-- Banner Görseli -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://images.fikretardabulut.com.tr/public/uploads/original/1d/69/88defceb37d3bfbb7a1321cad1b4.jpg" alt="Banner" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Merhaba, Ben Fikret Arda Bulut</h1>
 
